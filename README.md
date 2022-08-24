@@ -6,14 +6,23 @@ User ID 🆔 - @MRFazal09
 
 
 🧐 More About Me:
-🔭   I’m currently working on web development 
+
+🔭   I’m currently working on web development
+
 🤝   I’m looking to collaborate on Open Source
+
 🌱   I’m currently learning Python, Java.
+
 👨🏻‍💻   Most of my projects are available on Github
+
 💬   Ask me about anything tech related, I am happy to help;
+
 📫   Feel free to ping me on LinkedIn
+
 📝   Checkout my resume
+
 📚   When I am free, I read fantasy and fiction novels.
+
 
 
 <!---
